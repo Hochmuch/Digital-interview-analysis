@@ -1,0 +1,8 @@
+venv/
+local_models/
+*.tar.gz
+*.zip
+*.gz
+*.bin
+*.h5
+*.pt
