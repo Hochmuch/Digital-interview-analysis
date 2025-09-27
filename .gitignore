@@ -1,5 +1,7 @@
 venv/
-local_models/
+local_models/ru_core_news_lg-3.8.0/ru_core_news_lg-3.8.0
+local_models/pyannote_local/segmentation-3.0.bin
+local_models/pyannote_local/wespeaker-voxceleb-resnet34-LM.bin
 *.tar.gz
 *.zip
 *.gz
